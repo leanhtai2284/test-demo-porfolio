@@ -1,0 +1,16 @@
+:root {
+  --primary: blue;
+}
+.desc a {
+  color: var(--primary);
+  font-weight: 600; /* chữ đậm */
+}
+
+.list strong {
+  color: var(--primary);
+}
+
+.copyright a {
+  color: var(--primary);
+  font-weight: 600;
+}

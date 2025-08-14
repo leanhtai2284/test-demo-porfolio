@@ -1,0 +1,20 @@
+.card {
+    color: blue;
+    font-size: 50px;
+}
+img {
+    width: 50%;
+}
+p {
+    color: red;
+}
+button  {
+    color: green;
+    font-size: 30px;
+}
+button:hover {
+  background-color: blue;
+}
+a {
+    color: pink;
+}
